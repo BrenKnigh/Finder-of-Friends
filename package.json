@@ -9,12 +9,14 @@
   },
   "repository": {
     "type": "git",
-
+    "url": "git+https://github.com/BrenKnigh/Finder-of-Friends.git"
+  },
+  "author": "Brenden Knight",
   "license": "ISC",
   "bugs": {
-  
+    "url": "https://github.com/BrenKnigh/Finder-of-Friends/issues"
   },
-
+  "homepage": "https://github.com/BrenKnigh/Finder-of-Friends",
   "dependencies": {
     "body-parser": "^1.15.2",
     "express": "^4.14.0",
